@@ -4,3 +4,4 @@ b=3
 print("Sum : ",a+b)
 print("Sum : ",a+b)
 print("Prod : ",a*b)
+print("Diff : ",a-b)
